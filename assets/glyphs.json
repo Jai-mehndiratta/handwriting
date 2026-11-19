@@ -1,0 +1,2219 @@
+{
+ "ink_rgb": [
+  42,
+  54,
+  82
+ ],
+ "lower_x": 25,
+ "upper_cap": 36,
+ "digit_h": 38,
+ "lower": {
+  "a": [
+   {
+    "file": "assets/glyphs/lo_a_1.png",
+    "w": 52,
+    "h": 32,
+    "pad": 2,
+    "top": -22,
+    "inkH": 28,
+    "advance": 48,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_a_2.png",
+    "w": 48,
+    "h": 34,
+    "pad": 2,
+    "top": -18,
+    "inkH": 30,
+    "advance": 44,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_a_3.png",
+    "w": 46,
+    "h": 34,
+    "pad": 2,
+    "top": -15,
+    "inkH": 30,
+    "advance": 42,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "b": [
+   {
+    "file": "assets/glyphs/lo_b_1.png",
+    "w": 37,
+    "h": 42,
+    "pad": 2,
+    "top": -37,
+    "inkH": 38,
+    "advance": 33,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_b_2.png",
+    "w": 42,
+    "h": 42,
+    "pad": 2,
+    "top": -32,
+    "inkH": 38,
+    "advance": 38,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_b_3.png",
+    "w": 36,
+    "h": 41,
+    "pad": 2,
+    "top": -30,
+    "inkH": 37,
+    "advance": 32,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "c": [
+   {
+    "file": "assets/glyphs/lo_c_1.png",
+    "w": 43,
+    "h": 26,
+    "pad": 2,
+    "top": -22,
+    "inkH": 22,
+    "advance": 39,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_c_2.png",
+    "w": 42,
+    "h": 29,
+    "pad": 2,
+    "top": -23,
+    "inkH": 25,
+    "advance": 38,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_c_3.png",
+    "w": 39,
+    "h": 29,
+    "pad": 2,
+    "top": -23,
+    "inkH": 25,
+    "advance": 35,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "d": [
+   {
+    "file": "assets/glyphs/lo_d_1.png",
+    "w": 47,
+    "h": 56,
+    "pad": 2,
+    "top": -46,
+    "inkH": 52,
+    "advance": 43,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_d_2.png",
+    "w": 43,
+    "h": 45,
+    "pad": 2,
+    "top": -38,
+    "inkH": 41,
+    "advance": 39,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_d_3.png",
+    "w": 41,
+    "h": 46,
+    "pad": 2,
+    "top": -41,
+    "inkH": 42,
+    "advance": 37,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "e": [
+   {
+    "file": "assets/glyphs/lo_e_1.png",
+    "w": 44,
+    "h": 35,
+    "pad": 2,
+    "top": -31,
+    "inkH": 31,
+    "advance": 40,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_e_2.png",
+    "w": 48,
+    "h": 25,
+    "pad": 2,
+    "top": -24,
+    "inkH": 21,
+    "advance": 44,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_e_3.png",
+    "w": 51,
+    "h": 31,
+    "pad": 2,
+    "top": -27,
+    "inkH": 27,
+    "advance": 47,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "f": [
+   {
+    "file": "assets/glyphs/lo_f_1.png",
+    "w": 42,
+    "h": 54,
+    "pad": 2,
+    "top": -61,
+    "inkH": 50,
+    "advance": 38,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_f_2.png",
+    "w": 36,
+    "h": 46,
+    "pad": 2,
+    "top": -44,
+    "inkH": 42,
+    "advance": 32,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_f_3.png",
+    "w": 43,
+    "h": 48,
+    "pad": 2,
+    "top": -50,
+    "inkH": 44,
+    "advance": 39,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "g": [
+   {
+    "file": "assets/glyphs/lo_g_1.png",
+    "w": 45,
+    "h": 59,
+    "pad": 2,
+    "top": -43,
+    "inkH": 55,
+    "advance": 41,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_g_2.png",
+    "w": 41,
+    "h": 52,
+    "pad": 2,
+    "top": -26,
+    "inkH": 48,
+    "advance": 37,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_g_3.png",
+    "w": 40,
+    "h": 53,
+    "pad": 2,
+    "top": -34,
+    "inkH": 49,
+    "advance": 36,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "h": [
+   {
+    "file": "assets/glyphs/lo_h_1.png",
+    "w": 42,
+    "h": 46,
+    "pad": 2,
+    "top": -66,
+    "inkH": 42,
+    "advance": 38,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_h_2.png",
+    "w": 47,
+    "h": 40,
+    "pad": 2,
+    "top": -41,
+    "inkH": 36,
+    "advance": 43,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_h_3.png",
+    "w": 50,
+    "h": 41,
+    "pad": 2,
+    "top": -49,
+    "inkH": 37,
+    "advance": 46,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "i": [
+   {
+    "file": "assets/glyphs/lo_i_1.png",
+    "w": 29,
+    "h": 36,
+    "pad": 2,
+    "top": -70,
+    "inkH": 32,
+    "advance": 25,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_i_2.png",
+    "w": 30,
+    "h": 21,
+    "pad": 2,
+    "top": -25,
+    "inkH": 17,
+    "advance": 26,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_i_3.png",
+    "w": 35,
+    "h": 24,
+    "pad": 2,
+    "top": -41,
+    "inkH": 20,
+    "advance": 31,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "j": [
+   {
+    "file": "assets/glyphs/lo_j_1.png",
+    "w": 26,
+    "h": 63,
+    "pad": 2,
+    "top": -72,
+    "inkH": 59,
+    "advance": 22,
+    "baseline": 109,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_j_2.png",
+    "w": 32,
+    "h": 66,
+    "pad": 2,
+    "top": -43,
+    "inkH": 62,
+    "advance": 28,
+    "baseline": 118,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_j_3.png",
+    "w": 30,
+    "h": 42,
+    "pad": 2,
+    "top": -38,
+    "inkH": 38,
+    "advance": 26,
+    "baseline": 139,
+    "source": "v3"
+   }
+  ],
+  "k": [
+   {
+    "file": "assets/glyphs/lo_k_1.png",
+    "w": 44,
+    "h": 34,
+    "pad": 2,
+    "top": -25,
+    "inkH": 30,
+    "advance": 40,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_k_2.png",
+    "w": 42,
+    "h": 40,
+    "pad": 2,
+    "top": -31,
+    "inkH": 36,
+    "advance": 38,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_k_3.png",
+    "w": 48,
+    "h": 38,
+    "pad": 2,
+    "top": -24,
+    "inkH": 34,
+    "advance": 44,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "l": [
+   {
+    "file": "assets/glyphs/lo_l_1.png",
+    "w": 53,
+    "h": 42,
+    "pad": 2,
+    "top": -35,
+    "inkH": 38,
+    "advance": 49,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_l_2.png",
+    "w": 66,
+    "h": 44,
+    "pad": 2,
+    "top": -38,
+    "inkH": 40,
+    "advance": 62,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_l_3.png",
+    "w": 66,
+    "h": 44,
+    "pad": 2,
+    "top": -25,
+    "inkH": 40,
+    "advance": 62,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "m": [
+   {
+    "file": "assets/glyphs/lo_m_1.png",
+    "w": 64,
+    "h": 23,
+    "pad": 2,
+    "top": -16,
+    "inkH": 19,
+    "advance": 60,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_m_2.png",
+    "w": 73,
+    "h": 22,
+    "pad": 2,
+    "top": -25,
+    "inkH": 18,
+    "advance": 69,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_m_3.png",
+    "w": 63,
+    "h": 22,
+    "pad": 2,
+    "top": -11,
+    "inkH": 18,
+    "advance": 59,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "n": [
+   {
+    "file": "assets/glyphs/lo_n_1.png",
+    "w": 42,
+    "h": 25,
+    "pad": 2,
+    "top": -20,
+    "inkH": 21,
+    "advance": 38,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_n_2.png",
+    "w": 44,
+    "h": 21,
+    "pad": 2,
+    "top": -22,
+    "inkH": 17,
+    "advance": 40,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_n_3.png",
+    "w": 42,
+    "h": 23,
+    "pad": 2,
+    "top": -19,
+    "inkH": 19,
+    "advance": 38,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "o": [
+   {
+    "file": "assets/glyphs/lo_o_1.png",
+    "w": 33,
+    "h": 35,
+    "pad": 2,
+    "top": -32,
+    "inkH": 31,
+    "advance": 29,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_o_2.png",
+    "w": 33,
+    "h": 32,
+    "pad": 2,
+    "top": -33,
+    "inkH": 28,
+    "advance": 29,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_o_3.png",
+    "w": 34,
+    "h": 28,
+    "pad": 2,
+    "top": -24,
+    "inkH": 24,
+    "advance": 30,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "p": [
+   {
+    "file": "assets/glyphs/lo_p_1.png",
+    "w": 29,
+    "h": 57,
+    "pad": 2,
+    "top": -38,
+    "inkH": 53,
+    "advance": 25,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_p_2.png",
+    "w": 34,
+    "h": 56,
+    "pad": 2,
+    "top": -37,
+    "inkH": 52,
+    "advance": 30,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_p_3.png",
+    "w": 32,
+    "h": 48,
+    "pad": 2,
+    "top": -27,
+    "inkH": 44,
+    "advance": 28,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "q": [
+   {
+    "file": "assets/glyphs/lo_q_1.png",
+    "w": 62,
+    "h": 56,
+    "pad": 2,
+    "top": -44,
+    "inkH": 52,
+    "advance": 58,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_q_2.png",
+    "w": 68,
+    "h": 46,
+    "pad": 2,
+    "top": -38,
+    "inkH": 42,
+    "advance": 64,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_q_3.png",
+    "w": 75,
+    "h": 58,
+    "pad": 2,
+    "top": -39,
+    "inkH": 54,
+    "advance": 71,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "r": [
+   {
+    "file": "assets/glyphs/lo_r_1.png",
+    "w": 39,
+    "h": 28,
+    "pad": 2,
+    "top": -53,
+    "inkH": 24,
+    "advance": 35,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_r_2.png",
+    "w": 36,
+    "h": 24,
+    "pad": 2,
+    "top": -30,
+    "inkH": 20,
+    "advance": 32,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_r_3.png",
+    "w": 41,
+    "h": 26,
+    "pad": 2,
+    "top": -44,
+    "inkH": 22,
+    "advance": 37,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "s": [
+   {
+    "file": "assets/glyphs/lo_s_1.png",
+    "w": 35,
+    "h": 39,
+    "pad": 2,
+    "top": -68,
+    "inkH": 35,
+    "advance": 31,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_s_2.png",
+    "w": 35,
+    "h": 39,
+    "pad": 2,
+    "top": -31,
+    "inkH": 35,
+    "advance": 31,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_s_3.png",
+    "w": 30,
+    "h": 36,
+    "pad": 2,
+    "top": -58,
+    "inkH": 32,
+    "advance": 26,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "t": [
+   {
+    "file": "assets/glyphs/lo_t_1.png",
+    "w": 45,
+    "h": 49,
+    "pad": 2,
+    "top": -82,
+    "inkH": 45,
+    "advance": 41,
+    "baseline": 290,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_t_2.png",
+    "w": 56,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 52,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_t_3.png",
+    "w": 51,
+    "h": 37,
+    "pad": 2,
+    "top": -56,
+    "inkH": 33,
+    "advance": 47,
+    "baseline": 319,
+    "source": "v3"
+   }
+  ],
+  "u": [
+   {
+    "file": "assets/glyphs/lo_u_1.png",
+    "w": 38,
+    "h": 30,
+    "pad": 2,
+    "top": -26,
+    "inkH": 26,
+    "advance": 34,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_u_2.png",
+    "w": 44,
+    "h": 27,
+    "pad": 2,
+    "top": -17,
+    "inkH": 23,
+    "advance": 40,
+    "baseline": 300,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_u_3.png",
+    "w": 37,
+    "h": 29,
+    "pad": 2,
+    "top": -20,
+    "inkH": 25,
+    "advance": 33,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ],
+  "v": [
+   {
+    "file": "assets/glyphs/lo_v_1.png",
+    "w": 46,
+    "h": 29,
+    "pad": 2,
+    "top": -23,
+    "inkH": 25,
+    "advance": 42,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_v_2.png",
+    "w": 39,
+    "h": 32,
+    "pad": 2,
+    "top": -31,
+    "inkH": 28,
+    "advance": 35,
+    "baseline": 497,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_v_3.png",
+    "w": 40,
+    "h": 29,
+    "pad": 2,
+    "top": -21,
+    "inkH": 25,
+    "advance": 36,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ],
+  "w": [
+   {
+    "file": "assets/glyphs/lo_w_1.png",
+    "w": 61,
+    "h": 26,
+    "pad": 2,
+    "top": -24,
+    "inkH": 22,
+    "advance": 57,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_w_2.png",
+    "w": 65,
+    "h": 27,
+    "pad": 2,
+    "top": -24,
+    "inkH": 23,
+    "advance": 61,
+    "baseline": 497,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_w_3.png",
+    "w": 55,
+    "h": 24,
+    "pad": 2,
+    "top": -20,
+    "inkH": 20,
+    "advance": 51,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ],
+  "x": [
+   {
+    "file": "assets/glyphs/lo_x_1.png",
+    "w": 36,
+    "h": 39,
+    "pad": 2,
+    "top": -32,
+    "inkH": 35,
+    "advance": 32,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_x_2.png",
+    "w": 60,
+    "h": 35,
+    "pad": 2,
+    "top": -26,
+    "inkH": 31,
+    "advance": 56,
+    "baseline": 497,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_x_3.png",
+    "w": 61,
+    "h": 33,
+    "pad": 2,
+    "top": -36,
+    "inkH": 29,
+    "advance": 57,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ],
+  "y": [
+   {
+    "file": "assets/glyphs/lo_y_1.png",
+    "w": 49,
+    "h": 48,
+    "pad": 2,
+    "top": -33,
+    "inkH": 44,
+    "advance": 45,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_y_2.png",
+    "w": 44,
+    "h": 49,
+    "pad": 2,
+    "top": -24,
+    "inkH": 45,
+    "advance": 40,
+    "baseline": 497,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_y_3.png",
+    "w": 45,
+    "h": 51,
+    "pad": 2,
+    "top": -35,
+    "inkH": 47,
+    "advance": 41,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ],
+  "z": [
+   {
+    "file": "assets/glyphs/lo_z_1.png",
+    "w": 63,
+    "h": 34,
+    "pad": 2,
+    "top": -47,
+    "inkH": 30,
+    "advance": 59,
+    "baseline": 464,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/lo_z_2.png",
+    "w": 65,
+    "h": 32,
+    "pad": 2,
+    "top": -26,
+    "inkH": 28,
+    "advance": 61,
+    "baseline": 497,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/lo_z_3.png",
+    "w": 53,
+    "h": 30,
+    "pad": 2,
+    "top": -40,
+    "inkH": 26,
+    "advance": 49,
+    "baseline": 510,
+    "source": "v3"
+   }
+  ]
+ },
+ "upper": {
+  "A": [
+   {
+    "file": "assets/glyphs/up_A_1.png",
+    "w": 47,
+    "h": 50,
+    "pad": 2,
+    "top": -30,
+    "inkH": 46,
+    "advance": 43,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_A_2.png",
+    "w": 37,
+    "h": 39,
+    "pad": 2,
+    "top": -3,
+    "inkH": 35,
+    "advance": 33,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_A_3.png",
+    "w": 29,
+    "h": 44,
+    "pad": 2,
+    "top": -16,
+    "inkH": 40,
+    "advance": 25,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "B": [
+   {
+    "file": "assets/glyphs/up_B_1.png",
+    "w": 51,
+    "h": 57,
+    "pad": 2,
+    "top": -38,
+    "inkH": 53,
+    "advance": 47,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_B_2.png",
+    "w": 37,
+    "h": 43,
+    "pad": 2,
+    "top": -11,
+    "inkH": 39,
+    "advance": 33,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_B_3.png",
+    "w": 31,
+    "h": 41,
+    "pad": 2,
+    "top": -20,
+    "inkH": 37,
+    "advance": 27,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "C": [
+   {
+    "file": "assets/glyphs/up_C_1.png",
+    "w": 47,
+    "h": 44,
+    "pad": 2,
+    "top": -40,
+    "inkH": 40,
+    "advance": 43,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_C_2.png",
+    "w": 39,
+    "h": 33,
+    "pad": 2,
+    "top": -12,
+    "inkH": 29,
+    "advance": 35,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_C_3.png",
+    "w": 38,
+    "h": 33,
+    "pad": 2,
+    "top": -21,
+    "inkH": 29,
+    "advance": 34,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "D": [
+   {
+    "file": "assets/glyphs/up_D_1.png",
+    "w": 50,
+    "h": 51,
+    "pad": 2,
+    "top": -41,
+    "inkH": 47,
+    "advance": 46,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_D_2.png",
+    "w": 42,
+    "h": 39,
+    "pad": 2,
+    "top": -18,
+    "inkH": 35,
+    "advance": 38,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_D_3.png",
+    "w": 33,
+    "h": 42,
+    "pad": 2,
+    "top": -28,
+    "inkH": 38,
+    "advance": 29,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "E": [
+   {
+    "file": "assets/glyphs/up_E_1.png",
+    "w": 56,
+    "h": 54,
+    "pad": 2,
+    "top": -49,
+    "inkH": 50,
+    "advance": 52,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_E_2.png",
+    "w": 36,
+    "h": 41,
+    "pad": 2,
+    "top": -29,
+    "inkH": 37,
+    "advance": 32,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_E_3.png",
+    "w": 34,
+    "h": 45,
+    "pad": 2,
+    "top": -34,
+    "inkH": 41,
+    "advance": 30,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "F": [
+   {
+    "file": "assets/glyphs/up_F_1.png",
+    "w": 39,
+    "h": 45,
+    "pad": 2,
+    "top": -46,
+    "inkH": 41,
+    "advance": 35,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_F_2.png",
+    "w": 34,
+    "h": 37,
+    "pad": 2,
+    "top": -32,
+    "inkH": 33,
+    "advance": 30,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_F_3.png",
+    "w": 31,
+    "h": 41,
+    "pad": 2,
+    "top": -37,
+    "inkH": 37,
+    "advance": 27,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "G": [
+   {
+    "file": "assets/glyphs/up_G_1.png",
+    "w": 56,
+    "h": 45,
+    "pad": 2,
+    "top": -51,
+    "inkH": 41,
+    "advance": 52,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_G_2.png",
+    "w": 53,
+    "h": 39,
+    "pad": 2,
+    "top": -35,
+    "inkH": 35,
+    "advance": 49,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_G_3.png",
+    "w": 41,
+    "h": 40,
+    "pad": 2,
+    "top": -45,
+    "inkH": 36,
+    "advance": 37,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "H": [
+   {
+    "file": "assets/glyphs/up_H_1.png",
+    "w": 53,
+    "h": 35,
+    "pad": 2,
+    "top": -42,
+    "inkH": 31,
+    "advance": 49,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_H_2.png",
+    "w": 54,
+    "h": 34,
+    "pad": 2,
+    "top": -39,
+    "inkH": 30,
+    "advance": 50,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_H_3.png",
+    "w": 43,
+    "h": 34,
+    "pad": 2,
+    "top": -47,
+    "inkH": 30,
+    "advance": 39,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "I": [
+   {
+    "file": "assets/glyphs/up_I_1.png",
+    "w": 62,
+    "h": 42,
+    "pad": 2,
+    "top": -48,
+    "inkH": 38,
+    "advance": 58,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_I_2.png",
+    "w": 58,
+    "h": 36,
+    "pad": 2,
+    "top": -47,
+    "inkH": 32,
+    "advance": 54,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_I_3.png",
+    "w": 56,
+    "h": 41,
+    "pad": 2,
+    "top": -55,
+    "inkH": 37,
+    "advance": 52,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "J": [
+   {
+    "file": "assets/glyphs/up_J_1.png",
+    "w": 46,
+    "h": 59,
+    "pad": 2,
+    "top": -48,
+    "inkH": 55,
+    "advance": 42,
+    "baseline": 127,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_J_2.png",
+    "w": 41,
+    "h": 40,
+    "pad": 2,
+    "top": -56,
+    "inkH": 36,
+    "advance": 37,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_J_3.png",
+    "w": 39,
+    "h": 44,
+    "pad": 2,
+    "top": -64,
+    "inkH": 40,
+    "advance": 35,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "K": [
+   {
+    "file": "assets/glyphs/up_K_1.png",
+    "w": 49,
+    "h": 45,
+    "pad": 2,
+    "top": -28,
+    "inkH": 41,
+    "advance": 45,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_K_2.png",
+    "w": 56,
+    "h": 36,
+    "pad": 2,
+    "top": -56,
+    "inkH": 32,
+    "advance": 52,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_K_3.png",
+    "w": 56,
+    "h": 43,
+    "pad": 2,
+    "top": -65,
+    "inkH": 39,
+    "advance": 52,
+    "baseline": 104,
+    "source": "v3"
+   }
+  ],
+  "L": [
+   {
+    "file": "assets/glyphs/up_L_1.png",
+    "w": 43,
+    "h": 40,
+    "pad": 2,
+    "top": -19,
+    "inkH": 36,
+    "advance": 39,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_L_2.png",
+    "w": 46,
+    "h": 31,
+    "pad": 2,
+    "top": -61,
+    "inkH": 27,
+    "advance": 42,
+    "baseline": 157,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_L_3.png",
+    "w": 41,
+    "h": 35,
+    "pad": 2,
+    "top": -12,
+    "inkH": 31,
+    "advance": 37,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "M": [
+   {
+    "file": "assets/glyphs/up_M_1.png",
+    "w": 49,
+    "h": 37,
+    "pad": 2,
+    "top": -19,
+    "inkH": 33,
+    "advance": 45,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_M_2.png",
+    "w": 45,
+    "h": 39,
+    "pad": 2,
+    "top": -14,
+    "inkH": 35,
+    "advance": 41,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_M_3.png",
+    "w": 46,
+    "h": 44,
+    "pad": 2,
+    "top": -20,
+    "inkH": 40,
+    "advance": 42,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "N": [
+   {
+    "file": "assets/glyphs/up_N_1.png",
+    "w": 53,
+    "h": 40,
+    "pad": 2,
+    "top": -30,
+    "inkH": 36,
+    "advance": 49,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_N_2.png",
+    "w": 42,
+    "h": 34,
+    "pad": 2,
+    "top": -16,
+    "inkH": 30,
+    "advance": 38,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_N_3.png",
+    "w": 43,
+    "h": 35,
+    "pad": 2,
+    "top": -20,
+    "inkH": 31,
+    "advance": 39,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "O": [
+   {
+    "file": "assets/glyphs/up_O_1.png",
+    "w": 38,
+    "h": 34,
+    "pad": 2,
+    "top": -30,
+    "inkH": 30,
+    "advance": 34,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_O_2.png",
+    "w": 32,
+    "h": 30,
+    "pad": 2,
+    "top": -20,
+    "inkH": 26,
+    "advance": 28,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_O_3.png",
+    "w": 35,
+    "h": 35,
+    "pad": 2,
+    "top": -22,
+    "inkH": 31,
+    "advance": 31,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "P": [
+   {
+    "file": "assets/glyphs/up_P_1.png",
+    "w": 31,
+    "h": 47,
+    "pad": 2,
+    "top": -42,
+    "inkH": 43,
+    "advance": 27,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_P_2.png",
+    "w": 32,
+    "h": 40,
+    "pad": 2,
+    "top": -35,
+    "inkH": 36,
+    "advance": 28,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_P_3.png",
+    "w": 29,
+    "h": 46,
+    "pad": 2,
+    "top": -36,
+    "inkH": 42,
+    "advance": 25,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "Q": [
+   {
+    "file": "assets/glyphs/up_Q_1.png",
+    "w": 71,
+    "h": 37,
+    "pad": 2,
+    "top": -40,
+    "inkH": 33,
+    "advance": 67,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_Q_2.png",
+    "w": 53,
+    "h": 37,
+    "pad": 2,
+    "top": -30,
+    "inkH": 33,
+    "advance": 49,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_Q_3.png",
+    "w": 53,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 49,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "R": [
+   {
+    "file": "assets/glyphs/up_R_1.png",
+    "w": 59,
+    "h": 47,
+    "pad": 2,
+    "top": -52,
+    "inkH": 43,
+    "advance": 55,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_R_2.png",
+    "w": 46,
+    "h": 42,
+    "pad": 2,
+    "top": -38,
+    "inkH": 38,
+    "advance": 42,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_R_3.png",
+    "w": 44,
+    "h": 42,
+    "pad": 2,
+    "top": -48,
+    "inkH": 38,
+    "advance": 40,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "S": [
+   {
+    "file": "assets/glyphs/up_S_1.png",
+    "w": 50,
+    "h": 51,
+    "pad": 2,
+    "top": -56,
+    "inkH": 47,
+    "advance": 46,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_S_2.png",
+    "w": 35,
+    "h": 37,
+    "pad": 2,
+    "top": -41,
+    "inkH": 33,
+    "advance": 31,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_S_3.png",
+    "w": 39,
+    "h": 40,
+    "pad": 2,
+    "top": -51,
+    "inkH": 36,
+    "advance": 35,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "T": [
+   {
+    "file": "assets/glyphs/up_T_1.png",
+    "w": 54,
+    "h": 51,
+    "pad": 2,
+    "top": -51,
+    "inkH": 47,
+    "advance": 50,
+    "baseline": 292,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_T_2.png",
+    "w": 43,
+    "h": 40,
+    "pad": 2,
+    "top": -43,
+    "inkH": 36,
+    "advance": 39,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_T_3.png",
+    "w": 37,
+    "h": 37,
+    "pad": 2,
+    "top": -64,
+    "inkH": 33,
+    "advance": 33,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "U": [
+   {
+    "file": "assets/glyphs/up_U_1.png",
+    "w": 45,
+    "h": 38,
+    "pad": 2,
+    "top": -25,
+    "inkH": 34,
+    "advance": 41,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_U_2.png",
+    "w": 44,
+    "h": 34,
+    "pad": 2,
+    "top": -44,
+    "inkH": 30,
+    "advance": 40,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_U_3.png",
+    "w": 43,
+    "h": 31,
+    "pad": 2,
+    "top": -64,
+    "inkH": 27,
+    "advance": 39,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "V": [
+   {
+    "file": "assets/glyphs/up_V_1.png",
+    "w": 44,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 40,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_V_2.png",
+    "w": 51,
+    "h": 34,
+    "pad": 2,
+    "top": -48,
+    "inkH": 30,
+    "advance": 47,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_V_3.png",
+    "w": 41,
+    "h": 31,
+    "pad": 2,
+    "top": -65,
+    "inkH": 27,
+    "advance": 37,
+    "baseline": 276,
+    "source": "v3"
+   }
+  ],
+  "W": [
+   {
+    "file": "assets/glyphs/up_W_1.png",
+    "w": 70,
+    "h": 30,
+    "pad": 2,
+    "top": -26,
+    "inkH": 26,
+    "advance": 66,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_W_2.png",
+    "w": 75,
+    "h": 25,
+    "pad": 2,
+    "top": -49,
+    "inkH": 21,
+    "advance": 71,
+    "baseline": 305,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_W_3.png",
+    "w": 57,
+    "h": 28,
+    "pad": 2,
+    "top": -28,
+    "inkH": 24,
+    "advance": 53,
+    "baseline": 465,
+    "source": "v3"
+   }
+  ],
+  "X": [
+   {
+    "file": "assets/glyphs/up_X_1.png",
+    "w": 39,
+    "h": 38,
+    "pad": 2,
+    "top": -36,
+    "inkH": 34,
+    "advance": 35,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_X_2.png",
+    "w": 48,
+    "h": 46,
+    "pad": 2,
+    "top": -42,
+    "inkH": 42,
+    "advance": 44,
+    "baseline": 477,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_X_3.png",
+    "w": 36,
+    "h": 43,
+    "pad": 2,
+    "top": -39,
+    "inkH": 39,
+    "advance": 32,
+    "baseline": 465,
+    "source": "v3"
+   }
+  ],
+  "Y": [
+   {
+    "file": "assets/glyphs/up_Y_1.png",
+    "w": 40,
+    "h": 53,
+    "pad": 2,
+    "top": -47,
+    "inkH": 49,
+    "advance": 36,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_Y_2.png",
+    "w": 36,
+    "h": 52,
+    "pad": 2,
+    "top": -45,
+    "inkH": 48,
+    "advance": 32,
+    "baseline": 477,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_Y_3.png",
+    "w": 35,
+    "h": 46,
+    "pad": 2,
+    "top": -39,
+    "inkH": 42,
+    "advance": 31,
+    "baseline": 465,
+    "source": "v3"
+   }
+  ],
+  "Z": [
+   {
+    "file": "assets/glyphs/up_Z_1.png",
+    "w": 83,
+    "h": 34,
+    "pad": 2,
+    "top": -45,
+    "inkH": 30,
+    "advance": 79,
+    "baseline": 490,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/up_Z_2.png",
+    "w": 57,
+    "h": 35,
+    "pad": 2,
+    "top": -48,
+    "inkH": 31,
+    "advance": 53,
+    "baseline": 477,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/up_Z_3.png",
+    "w": 59,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 55,
+    "baseline": 465,
+    "source": "v3"
+   }
+  ]
+ },
+ "digit": {
+  "1": [
+   {
+    "file": "assets/glyphs/di_1_1.png",
+    "w": 48,
+    "h": 40,
+    "pad": 2,
+    "top": -36,
+    "inkH": 36,
+    "advance": 44,
+    "baseline": 229,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_1_1.png",
+    "w": 17,
+    "h": 43,
+    "pad": 2,
+    "top": -39,
+    "inkH": 39,
+    "advance": 13,
+    "baseline": 150,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_1_2.png",
+    "w": 20,
+    "h": 40,
+    "pad": 2,
+    "top": -36,
+    "inkH": 36,
+    "advance": 16,
+    "baseline": 304,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_1_2.png",
+    "w": 14,
+    "h": 48,
+    "pad": 2,
+    "top": -44,
+    "inkH": 44,
+    "advance": 10,
+    "baseline": 234,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_1_3.png",
+    "w": 16,
+    "h": 40,
+    "pad": 2,
+    "top": -36,
+    "inkH": 36,
+    "advance": 12,
+    "baseline": 340,
+    "source": "v3"
+   },
+   {
+    "file": "assets/glyphs/di_1_3.png",
+    "w": 16,
+    "h": 43,
+    "pad": 2,
+    "top": -39,
+    "inkH": 39,
+    "advance": 12,
+    "baseline": 270,
+    "source": "v3"
+   }
+  ],
+  "2": [
+   {
+    "file": "assets/glyphs/di_2_1.png",
+    "w": 46,
+    "h": 38,
+    "pad": 2,
+    "top": -34,
+    "inkH": 34,
+    "advance": 42,
+    "baseline": 215,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_2_2.png",
+    "w": 49,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 45,
+    "baseline": 289,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_2_3.png",
+    "w": 44,
+    "h": 37,
+    "pad": 2,
+    "top": -33,
+    "inkH": 33,
+    "advance": 40,
+    "baseline": 327,
+    "source": "v3"
+   }
+  ],
+  "3": [
+   {
+    "file": "assets/glyphs/di_3_1.png",
+    "w": 41,
+    "h": 50,
+    "pad": 2,
+    "top": -46,
+    "inkH": 46,
+    "advance": 37,
+    "baseline": 214,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_3_2.png",
+    "w": 38,
+    "h": 47,
+    "pad": 2,
+    "top": -43,
+    "inkH": 43,
+    "advance": 34,
+    "baseline": 284,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_3_3.png",
+    "w": 35,
+    "h": 45,
+    "pad": 2,
+    "top": -41,
+    "inkH": 41,
+    "advance": 31,
+    "baseline": 314,
+    "source": "v3"
+   }
+  ],
+  "4": [
+   {
+    "file": "assets/glyphs/di_4_1.png",
+    "w": 48,
+    "h": 41,
+    "pad": 2,
+    "top": -37,
+    "inkH": 37,
+    "advance": 44,
+    "baseline": 204,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_4_2.png",
+    "w": 49,
+    "h": 41,
+    "pad": 2,
+    "top": -37,
+    "inkH": 37,
+    "advance": 45,
+    "baseline": 274,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_4_3.png",
+    "w": 52,
+    "h": 42,
+    "pad": 2,
+    "top": -38,
+    "inkH": 38,
+    "advance": 48,
+    "baseline": 306,
+    "source": "v3"
+   }
+  ],
+  "5": [
+   {
+    "file": "assets/glyphs/di_5_1.png",
+    "w": 36,
+    "h": 48,
+    "pad": 2,
+    "top": -44,
+    "inkH": 44,
+    "advance": 32,
+    "baseline": 197,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_5_2.png",
+    "w": 40,
+    "h": 53,
+    "pad": 2,
+    "top": -49,
+    "inkH": 49,
+    "advance": 36,
+    "baseline": 273,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_5_3.png",
+    "w": 35,
+    "h": 48,
+    "pad": 2,
+    "top": -44,
+    "inkH": 44,
+    "advance": 31,
+    "baseline": 301,
+    "source": "v3"
+   }
+  ],
+  "6": [
+   {
+    "file": "assets/glyphs/di_6_1.png",
+    "w": 29,
+    "h": 55,
+    "pad": 2,
+    "top": -51,
+    "inkH": 51,
+    "advance": 25,
+    "baseline": 195,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_6_2.png",
+    "w": 30,
+    "h": 45,
+    "pad": 2,
+    "top": -41,
+    "inkH": 41,
+    "advance": 26,
+    "baseline": 261,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_6_3.png",
+    "w": 30,
+    "h": 47,
+    "pad": 2,
+    "top": -43,
+    "inkH": 43,
+    "advance": 26,
+    "baseline": 288,
+    "source": "v3"
+   }
+  ],
+  "7": [
+   {
+    "file": "assets/glyphs/di_7_1.png",
+    "w": 31,
+    "h": 40,
+    "pad": 2,
+    "top": -36,
+    "inkH": 36,
+    "advance": 27,
+    "baseline": 177,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_7_2.png",
+    "w": 43,
+    "h": 38,
+    "pad": 2,
+    "top": -34,
+    "inkH": 34,
+    "advance": 39,
+    "baseline": 249,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_7_3.png",
+    "w": 39,
+    "h": 36,
+    "pad": 2,
+    "top": -32,
+    "inkH": 32,
+    "advance": 35,
+    "baseline": 281,
+    "source": "v3"
+   }
+  ],
+  "8": [
+   {
+    "file": "assets/glyphs/di_8_1.png",
+    "w": 34,
+    "h": 41,
+    "pad": 2,
+    "top": -37,
+    "inkH": 37,
+    "advance": 30,
+    "baseline": 162,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_8_2.png",
+    "w": 35,
+    "h": 41,
+    "pad": 2,
+    "top": -37,
+    "inkH": 37,
+    "advance": 31,
+    "baseline": 244,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_8_3.png",
+    "w": 34,
+    "h": 49,
+    "pad": 2,
+    "top": -45,
+    "inkH": 45,
+    "advance": 30,
+    "baseline": 272,
+    "source": "v3"
+   }
+  ],
+  "9": [
+   {
+    "file": "assets/glyphs/di_9_1.png",
+    "w": 44,
+    "h": 45,
+    "pad": 2,
+    "top": -41,
+    "inkH": 41,
+    "advance": 40,
+    "baseline": 153,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_9_2.png",
+    "w": 46,
+    "h": 53,
+    "pad": 2,
+    "top": -49,
+    "inkH": 49,
+    "advance": 42,
+    "baseline": 236,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_9_3.png",
+    "w": 42,
+    "h": 46,
+    "pad": 2,
+    "top": -42,
+    "inkH": 42,
+    "advance": 38,
+    "baseline": 268,
+    "source": "v3"
+   }
+  ],
+  "0": [
+   {
+    "file": "assets/glyphs/di_0_1.png",
+    "w": 26,
+    "h": 34,
+    "pad": 2,
+    "top": -30,
+    "inkH": 30,
+    "advance": 22,
+    "baseline": 146,
+    "source": "v1"
+   },
+   {
+    "file": "assets/glyphs/di_0_2.png",
+    "w": 32,
+    "h": 39,
+    "pad": 2,
+    "top": -35,
+    "inkH": 35,
+    "advance": 28,
+    "baseline": 233,
+    "source": "v2"
+   },
+   {
+    "file": "assets/glyphs/di_0_3.png",
+    "w": 28,
+    "h": 30,
+    "pad": 2,
+    "top": -26,
+    "inkH": 26,
+    "advance": 24,
+    "baseline": 264,
+    "source": "v3"
+   }
+  ]
+ }
+}
