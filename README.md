@@ -13,6 +13,8 @@ The visual style matches the approved “apex” version:
 
 ![Preview](docs/preview.png)
 
+The visual rules and why they work are documented in [`docs/STYLE.md`](docs/STYLE.md).
+
 ## Quick start
 
 ```bash
